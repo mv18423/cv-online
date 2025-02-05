@@ -1,0 +1,225 @@
+body{
+    background-color: #b6b0b0;
+    font-family: 'Calibri', sans-serif;
+}
+/*right section styles*/
+.right-section{
+    flex: 1;
+    padding-left: 90px;
+    background-color: #fff;
+    padding-right: 50px;
+
+}
+.sidebar-section{
+ width: 200px;
+}
+.about-me-profession{
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 17px;
+    margin-top: 100px;
+    color: black;
+}
+.name-section{
+    
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 55px;
+margin-top: 30px;
+
+color: #000000;
+}
+
+.main-section{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+    align-items: stretch;
+   
+    
+}
+.sidebar-section{
+    width: 370px;
+    min-height: 100vh;
+    flex-shrink: 0;
+}
+
+.sidebar-section, .right-section {
+    min-height: 100%;
+}
+.image{
+    
+    margin-top: 40px;
+}
+.about-me-section{
+    
+    
+    width: 600px;
+}
+.about-me-section p{
+    
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #595959;
+}
+.project-section{
+    margin: 40px 0 0 0;
+    
+}
+.education-section{
+    margin-bottom: 40px;
+
+}
+.block-title{
+    font-family: 'Calibri';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 27px;
+color: #000000;
+}
+
+ol li, .bracket{
+    font-weight: 700;
+    color: #000;
+}
+.projects-item a{
+
+}
+.project-section ol{
+    padding-left: 19px;
+}
+.projects-item{
+    font-family: 'Calibri';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #595959;
+margin-left: 15px;
+}
+.work-experience-duties{
+padding-left: 15px;
+}
+.work-experience-section{
+    
+    margin-top: 50px;
+}
+.work-experience-position{
+    font-family: 'Calibri';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px; 
+}
+.work-experience-company{
+    color: #FB6D3A;
+}
+.work-experience-period{
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 15px;
+color: #444343;
+}
+.line-break{
+    color: #000;
+}
+.work-experience-duties li{
+    font-family: 'Calibri';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #595959;
+}
+.courses-section {
+    margin-top: 20px; /* Reduce spațiul de sus */
+    margin-bottom: 50px; }
+
+.courses-section .block-title {
+    font-size: 22px;
+    font-weight: 700;
+    color: #000;
+}
+
+
+
+.courses-section li {
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #595959;
+}
+
+
+.sidebar-section{
+    background-color:rgb(0, 0, 0);
+    color: white;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 50px;
+    width: 370px;
+    
+    }
+    .sidebar-title{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 27px;
+        color: #fff;
+    }
+    .contact-section .tech-skils-section .soft-skils-section{
+        margin-left: 40px;
+    }
+    .contacts-section-type{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 24px;
+        color: #fff;
+        margin-right: 10px;
+
+    }
+    .contact-section-value{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 34px;
+        line-height: 24px;
+        color: #3A4352;
+    }
+    .sidebar-list{
+color: orangered;
+padding-left: 20px;
+    }
+    .sidebar-list span{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 24px;
+        color: #fff;
+    }
+    .list{
+        color: orangered;
+        padding-left: 20px;
+            }
+            .list span{
+                font-style: normal;
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 24px;
+                color: #fff;
+            }
